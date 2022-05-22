@@ -1,3 +1,3 @@
 # My Tech Journey
 
-## About me
+## [About me](./about-me.md)
