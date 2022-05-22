@@ -1,3 +1,3 @@
-# my-tech-journey
+# My Tech Journey
 
-My Tech Journey
+## About me
