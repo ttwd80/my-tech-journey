@@ -1,8 +1,8 @@
 # About Me
 
-- 1994 - 1997: My dad bought me a PC. 
+- 1994 - 1997: My dad bought me a PC.
   - A 486SX 25Mhz with 4MB of RAM.
-  - I learned C++ and Linux from books. 
+  - I learned C++ and Linux from books.
   - Internet was dial-up.
 - 1998 - 2001: I went to university.
   - I got a Diploma in Computer Science in 2001.
