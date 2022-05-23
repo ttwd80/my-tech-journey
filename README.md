@@ -9,4 +9,5 @@ The purpose of this document is to serve as a guide so that
 it won't take you 5 years to change your life (if that is what you want to do).
 
 ## [About me](./about-me.md)
+
 ## [Borders and Opportunities](./borders-and-opportunities.md)
