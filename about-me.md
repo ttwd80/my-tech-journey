@@ -7,7 +7,7 @@
 - 1998 - 2001: I went to university.
   - I got a Diploma in Computer Science in 2001.
 - 2001 - 2003: I worked for a while, doing Java web based application.
-- 2003 - 2005: I went back to university to do a degree. I did not complete.
+- 2003 - 2005: I went back to university to do a degree. I did not complete the degree.
 - 2005 - 2008: I worked for various companies, mostly doing Java related work.
 - 2008 - 2012: I started a company and worked with projects, mostly Java related.
 - 2012 - 2013: I had some family issues and could no longer manage the company.
