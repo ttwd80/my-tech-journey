@@ -13,7 +13,8 @@
 - 2012 - 2013: I had some family issues and could no longer manage the company.
   - I worked for a multinational company doing Java.
 - 2013 - 2015: I did freelance job.
-- 2015 - 2016: I worked for Amazon Web Services in Australia as a Cloud Support Engineer.
-- 2016 - 2019: I worked for Amazon Web Services in Australia as a System Development Engineer.
+- 2015 - 2019: I worked for Amazon Web Services in Australia.
+  - 2015 - 2016: I was a Cloud Support Engineer.
+  - 2016 - 2019: I was a System Development Engineer.
 - 2020 - 2020: I worked for Snap as a Software Engineer.
 - 2021 - 2022: I worked for Splunk as a Principal Software Engineer.
